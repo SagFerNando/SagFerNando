@@ -14,16 +14,17 @@
   <br/>
 
   <div content="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="React"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" alt="Csharp"/> 
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" alt="Css3"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" alt="Csharp"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" alt="React"/>
   </div>
 </body>
 </html>
